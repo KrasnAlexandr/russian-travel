@@ -1,0 +1,22 @@
+.places {
+    margin: 0 auto 92px auto;
+    width: calc(100% - 148px*2);
+}
+
+@media screen and (max-width: 1024px){
+    .places {
+        width: calc(100% - 48px*2);
+    }
+}
+
+@media screen and (max-width: 768px){
+    .places {
+        width: calc(100% - 24px*2);
+    }
+}
+
+@media screen and (max-width: 320px){
+    .header {
+        width: 100%;
+    }
+}

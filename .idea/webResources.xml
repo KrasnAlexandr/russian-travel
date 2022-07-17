@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/.idea" />
+            <path value="file://$PROJECT_DIR$/blocks" />
+            <path value="file://$PROJECT_DIR$/fonts" />
+            <path value="file://$PROJECT_DIR$/images" />
+            <path value="file://$PROJECT_DIR$/pages" />
+            <path value="file://$PROJECT_DIR$/vendor" />
+            <path value="file://$PROJECT_DIR$/blocks/body" />
+            <path value="file://$PROJECT_DIR$/blocks/cover" />
+            <path value="file://$PROJECT_DIR$/blocks/footer" />
+            <path value="file://$PROJECT_DIR$/blocks/header" />
+            <path value="file://$PROJECT_DIR$/blocks/intro" />
+            <path value="file://$PROJECT_DIR$/blocks/lead" />
+            <path value="file://$PROJECT_DIR$/blocks/main" />
+            <path value="file://$PROJECT_DIR$/blocks/photo-grid" />
+            <path value="file://$PROJECT_DIR$/blocks/place" />
+            <path value="file://$PROJECT_DIR$/blocks/places" />
+            <path value="file://$PROJECT_DIR$/blocks/root" />
+            <path value="file://$PROJECT_DIR$" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>
