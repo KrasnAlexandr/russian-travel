@@ -14,9 +14,9 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 680px){
     .lead__subtitle {
         margin: 16px auto 40px auto;
-        max-width: 288px;
+        max-width: calc(100% - 16px*2);
     }
 }
