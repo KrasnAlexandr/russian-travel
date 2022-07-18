@@ -30,5 +30,6 @@
 
         margin-top: 33px;
         margin-bottom: 16px;
+        max-width: calc(100% - 16px*2);
     }
 }
