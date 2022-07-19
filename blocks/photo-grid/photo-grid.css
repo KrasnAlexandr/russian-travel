@@ -18,6 +18,7 @@
         width: calc(100% - 24px*2);
         grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
         gap: 16px;
+        margin: 0 auto 88px auto;
 
     }
 }
@@ -25,7 +26,8 @@
 @media screen and (max-width: 680px){
     .photo-grid {
         width: calc(100% - 16px*2);
-        grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+        grid-template-columns: repeat(auto-fit, 100%);
         gap: 12px;
+        margin: 0 auto 64px auto;
     }
 }
