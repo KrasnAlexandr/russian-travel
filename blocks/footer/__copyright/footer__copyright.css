@@ -5,4 +5,11 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
+    align-self: end;
+}
+
+@media screen and (max-width: 680px) {
+    .footer__copyright {
+        align-self: auto;
+    }
 }
